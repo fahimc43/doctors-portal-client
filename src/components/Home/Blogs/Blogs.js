@@ -29,7 +29,7 @@ const blogData = [
 
 const Blogs = () => {
     return (
-        <section className="blogs my-5 py-5">
+        <section className="blogs my-5 py-5" id="blogs">
             <div className="container">
                 <div className="text-center">
                     <h5 className="text-primary text-uppercase">Our Blog</h5>
